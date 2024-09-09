@@ -1,0 +1,5 @@
+C:\Users\almass\Downloads\nuget\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.csproj.AssemblyReference.cache
+C:\Users\almass\Downloads\nuget\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almass\Downloads\nuget\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.AssemblyInfoInputs.cache
+C:\Users\almass\Downloads\nuget\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.AssemblyInfo.cs
+C:\Users\almass\Downloads\nuget\MyNuGetPackage\obj\Release\netstandard2.0\MyNuGetPackage.csproj.CoreCompileInputs.cache
