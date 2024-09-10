@@ -39,7 +39,7 @@ jobs:
           github_token: ${{ secrets.GH_TOKEN }}
           #include_diagnostics: true
           blackduck_scan_failure_severities: "ALL"
-          blackduck_args: ' "--detect.tools=BINARY_SCAN --detect.binary.scan.file.path=C:\Users\almass\Downloads\detect-run-2024-08-21-08-05-21-263\binary\binary-upload"  --detect.binary.scan.file.name.patterns=*.exe,*.dll,*.crx,*.arx,*.dbx,*.hdi,*.dlz,*.dlu,*.dlo,*.dlm,*.dlc,*.dli,*.dlt,*.dle,*.dlv,*.dlk,*.dlb,*.dlf,*.dlr,*.bmf,*.bmi,*.bms,*.flt,*.gup,*.dlh,*.dln,*.dla,*.dls,*.dfl,*.dly,*.dlx,*.ppi,*.so,*.jar,*.rpm,*.elf,*.out,*.a,*.macho,*.out,*.lib,*.dylib --detect.binary.scan.search.depth=30'
+          blackduck_args: '--logging.level.detect=DEBUG'
           
           #Optional- To enable feedback from Black Duck security testing as pull request comment
           #blackduck_automation_prcomment: true
